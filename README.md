@@ -2,17 +2,15 @@ Iyzico_transaction volume predictions
 
 
 
- #Business Problem
+ # Business Problem
 
 
  Iyzico is a financial technology company that facilitates the online shopping experience for both buyers and sellers.
  It provides payment infrastructure for e-commerce companies, marketplaces, and individual users.
  It is expected to make total transaction volume predictions by merchant_id and on a daily basis for the last 3 months of 2020.
 
+ # Dataset Story
 
-###############################################################
- Dataset Story
-###############################################################
  The data includes the records of 7 member merchants from 2018 to 2020.
 
  Transaction: Number of transactions
