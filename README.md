@@ -17,9 +17,9 @@ Iyzico_transaction volume predictions
  MerchantID: IDs of member merchants
  Paid Price: Payment amount
 
-###############################################################
- TASKS
-###############################################################
+
+ # TASKS
+
 
  Task 1: Exploration of the Dataset
              1. Read the ts-iyzico_data.csv file. Convert the transaction_date variable to date type.
